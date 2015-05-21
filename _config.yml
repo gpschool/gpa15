@@ -17,6 +17,7 @@ conference:
   hosts:
   - {name: Ole Winther, url: "http://cogsys.imm.dtu.dk/staff/winther/"}
   organizers:
+  - {name: Ole Winther, url: "http://cogsys.imm.dtu.dk/staff/winther/"}
   - {name: Aki Vehtari, url: "http://becs.aalto.fi/~ave/"}
   - {name: Neil Lawrence, url: "http://inverseprobability.com"}
   name: Workshop on Gaussian Process Approximations
