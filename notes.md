@@ -46,4 +46,12 @@ Interesting the different effect of the rectified linear units vs sigmoidal.
 
 1) Can we derive convergence conditions for EP?
 
+In practice empirically, it seems EP is actually a lower bound. Is this true? Ulrich will talk more about this tomorrow.
+
+For Ising model, tilted distribution is tractable.
+
+Can proove that if a fixed point exists it's attractive for GP in a box and for repeated box factors (see John Cunningham talk).
+
 2) Can we justify parallel and damped versions of EP.
+
+Pre EP work, adaptive TAP (Winther and Opper) is looking for the same fixed points of EP.
