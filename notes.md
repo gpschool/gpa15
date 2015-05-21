@@ -39,3 +39,11 @@ Use Assumed Density Filtering ideas plus a factorized approximation to the poste
 Use autograd or Theano for back propagation.
 
 Good performance on range of data sets (Boston, Concrete, Energy etc).
+
+Interesting the different effect of the rectified linear units vs sigmoidal.
+
+# Ole
+
+1) Can we derive convergence conditions for EP?
+
+2) Can we justify parallel and damped versions of EP.
