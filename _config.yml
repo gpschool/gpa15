@@ -16,6 +16,7 @@ youtube:
 conference:
   hosts:
   - {name: Ole Winther, url: "http://cogsys.imm.dtu.dk/staff/winther/"}
+  - {name: DTU, url: "http://www.dtu.dk/"}
   organizers:
   - {name: Ole Winther, url: "http://cogsys.imm.dtu.dk/staff/winther/"}
   - {name: Aki Vehtari, url: "http://becs.aalto.fi/~ave/"}
