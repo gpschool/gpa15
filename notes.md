@@ -14,7 +14,7 @@ A further approximation within the FITC/PITC class where you replace the prior w
 
 work with Thang Bui
 
-## Marc Deisenroth
+# Marc Deisenroth
 
 Properties of approximations
 
@@ -24,7 +24,7 @@ Good approximation to the ground truth.
 
 Preditions indepedendent of computational graph.
 
-# Michalis:
+# Michalis
 
 Is the actual problem that we should be finding ways to represent a Gaussian process in a non-distributed manner?
 
@@ -32,8 +32,10 @@ Have global property that the full GP is the sum of some local GPs.
 
 Partition the kernel using squashing functions. Assume conditional dependence which respects the clustering strucure. 
 
-# Jose:
+# Jose
 
 Use Assumed Density Filtering ideas plus a factorized approximation to the posterior to give a stochastic back propagtion-like algorithm for optimizing Bayesian neural networks.
 
 Use autograd or Theano for back propagation.
+
+Good performance on range of data sets (Boston, Concrete, Energy etc).
