@@ -55,3 +55,7 @@ Can proove that if a fixed point exists it's attractive for GP in a box and for 
 2) Can we justify parallel and damped versions of EP.
 
 Pre EP work, adaptive TAP (Winther and Opper) is looking for the same fixed points of EP.
+
+Show that if the dynamics covergence they do to EP fixed points.
+
+# Michael
