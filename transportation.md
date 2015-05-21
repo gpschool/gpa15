@@ -1,3 +1,8 @@
+---
+layout: page
+title: Transportation
+---
+
 Transportation in Copenhagen: (adapted from [here](http://www.diku.dk/online-learning-summer-school-2015/travel-information/).)
 
 Copenhagen is relatively small and it is easy to get around by foot, but the best way to get around is by bicycle (note that a couple of paved streets in the center are for pedestrians only). You can also get around by public transport, check here for some explanations about the payment options (note that the smartphone payment app is not very reliable). For information on getting from/to the airport check here (Metro is a convenient option). Google Maps supports route planning by foot/bicycle/public transport/car.
