@@ -1,3 +1,8 @@
+---
+layout: page
+title: Workshop Notes
+---
+
 # Rich Turner
 
 Rich talked about the challenges of using inducing point methods in time series and introduced a chain-structured pseudo point approximation. The key twist is to place a chain structure on the inducing inputs.
