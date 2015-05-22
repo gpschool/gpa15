@@ -77,3 +77,5 @@ Hilber space methods for approximate
 Esitmating the drift of Gaussian processes.
 
 Handling non-linear noise terms in SDEs.
+
+# Heiko
