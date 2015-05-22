@@ -59,3 +59,21 @@ Pre EP work, adaptive TAP (Winther and Opper) is looking for the same fixed poin
 Show that if the dynamics covergence they do to EP fixed points.
 
 # Michael
+
+Structured Sparsity Models, where data is both structured and sparse. Build priors to encode this information.
+
+# James
+
+Sparse Variational GPs for classification.
+
+
+# Simo
+
+Hilber space methods for approximate
+
+
+# Manfred
+
+Esitmating the drift of Gaussian processes.
+
+Handling non-linear noise terms in SDEs.
