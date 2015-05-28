@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Transportation
+main: Y
 ---
 
 Transportation in Copenhagen: (adapted from [here](http://www.diku.dk/online-learning-summer-school-2015/travel-information/).)

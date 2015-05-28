@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Venue
+main: Y
 ---
 
 Venue: [Room 2-0-07/09, Københavns Biocenter, Ole Maaløes Vej 5, 2200 København N](https://www.google.dk/maps/place/K%C3%B8benhavns+Biocenter/@55.6992475,12.5573086,17z/data=!4m2!3m1!1s0x0000000000000000:0x80626043049de15e)
