@@ -1,5 +1,5 @@
 day,date,month,start,end,title,pdf,ipynb,speaker,institution,youtube,abstract
-Thursday,21,May,9:00,9:30,**Tree Structured Gaussian Process Approximations**,./assets/turner.pdf,,[Rich Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome),University of Cambridge,,
+Thursday,21,May,9:00,9:30,**Tree Structured Gaussian Process Approximations**,./assets/turner.pdf,,[Rich Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome),University of Cambridge,
 Thursday,21,May,9:45,10:15,**Distributed Gaussian Processes for Large Scale Probabilistic Regression**,./assets/deisenroth.pdf,,[Marc Deisenroth](http://wp.doc.ic.ac.uk/sml/person/marc-deisenroth/),Imperial College London,
 Thursday,21,May,10:30,11:00,**Coffee**,,,,,
 Thursday,21,May,11:00,11:30,**Distributed Kernel Representations for Variational Sparse Gaussian Processes**,./assets/titsias.pdf,,[Michalis Titsias](http://www.aueb.gr/users/mtitsias/),Athens University of Economics and Business,
